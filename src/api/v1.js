@@ -1,0 +1,1 @@
+export const URI = 'https://shubenok-12-16-default-rtdb.firebaseio.com';
